@@ -1,0 +1,68 @@
+[
+    {
+        "id": "69214ec2f3972",
+        "name": "Dummy Dooly",
+        "email": "dummy@gmail.com",
+        "password": "$2y$10$EjmjNS36BSYEcsMFGt4vFub9At3Rccsr9yjt22SCDoI2EG9YHpYVW",
+        "role": "doctor",
+        "phone": "0923421321",
+        "created_at": "2025-11-22 05:48:51",
+        "specialty": "Cardiology"
+    },
+    {
+        "id": "6921512160c8f",
+        "name": "werwer",
+        "email": "wer@gmail.com",
+        "password": "$2y$10$Fw\/qLKhbMUC1McqTdFYGF.pp7sD1auDr1J.Is8ZDIQmM.6s1\/Eg0i",
+        "role": "patient",
+        "phone": "0923421321",
+        "created_at": "2025-11-22 06:58:57"
+    },
+    {
+        "id": "6928d4cfe3d31",
+        "name": "NEWNEW",
+        "email": "NEW@gmail.com",
+        "password": "$2y$12$vUara20yDiDxReZz66cYQuk9IVho1VsiLGP\/0SGg0W5qBn3R633iy",
+        "role": "doctor",
+        "phone": "123-123-12345",
+        "created_at": "2025-11-27 22:46:40",
+        "specialty": "Pediatrician"
+    },
+    {
+        "id": "6928d529891d9",
+        "name": "Akali",
+        "email": "akali@gmail.com",
+        "password": "$2y$12$0r1nusfRNHm9MJ851i4zAeB9ddMM3rv\/KqtwEC\/2.Cpi7YOYcoxFm",
+        "role": "patient",
+        "phone": "12312312345",
+        "created_at": "2025-11-27 22:48:10"
+    },
+    {
+        "id": "6938e8195352e",
+        "name": "Charles",
+        "email": "charles@gmail.com",
+        "password": "$2y$12$KvvABTwpmCfRlc5xr6jlv.hkrPnqSN1VW300\/usdGQQ6vdH1\/D3nS",
+        "role": "patient",
+        "phone": "09546852314",
+        "created_at": "2025-12-10 03:25:13"
+    },
+    {
+        "id": "6938ea2c40ab0",
+        "name": "Maris",
+        "email": "maris@gmail.com",
+        "password": "$2y$12$meCQkiq1dVqf1z\/ygxFky.HPJ3NoL\/ZZi1Lx\/b.BPNBAsW3n5LsBG",
+        "role": "doctor",
+        "phone": "09547856452",
+        "created_at": "2025-12-10 03:34:04",
+        "specialty": "Cardiology"
+    },
+    {
+        "id": "69390b624fba4",
+        "name": "Zed",
+        "email": "zedtt@gmail.com",
+        "password": "$2y$12$Gl5jetoovBl.csg0XHgtfO2vZw4d2umTxl2YpoU58zjBRlyhlwShO",
+        "role": "patient",
+        "phone": "12121212",
+        "created_at": "2025-12-10 05:55:46"
+    }
+]

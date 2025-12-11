@@ -1,0 +1,26 @@
+[
+    {
+        "id": "692151e859ca5",
+        "patient_id": "6921512160c8f",
+        "doctor_id": "69215186b8429",
+        "date": "2025-11-25 10:00:00",
+        "reason": "Masakit ang puson",
+        "created_at": "2025-11-22 07:02:16"
+    },
+    {
+        "id": "6928d5d247f19",
+        "patient_id": "6928d529891d9",
+        "doctor_id": "6928d4cfe3d31",
+        "date": "2025-11-30 09:00:00",
+        "reason": "natatae",
+        "created_at": "2025-11-27 22:50:58"
+    },
+    {
+        "id": "69390bdca2e41",
+        "patient_id": "69390b624fba4",
+        "doctor_id": "69214ec2f3972",
+        "date": "2025-12-23 13:03:00",
+        "reason": "Wala lang",
+        "created_at": "2025-12-10 05:57:48"
+    }
+]
